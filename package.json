@@ -16,9 +16,9 @@
   "author": "anhtuank7c@hotmail.com (Anh Tuan Nguyen)",
   "license": "MIT",
   "peerDependencies": {
+    "fbjs": "*",
     "react": ">= 16.4.1",
-    "react-native": ">= 0.55.4",
-    "fbjs": "*"
+    "react-native": ">= 0.55.4"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
@@ -26,6 +26,8 @@
     "eslint-config-rallycoding": "^3.2.0",
     "eslint-plugin-react": "^7.11.1",
     "eslint-plugin-react-native": "^3.3.0",
-    "flow-bin": "^0.78.0"
+    "flow-bin": "^0.78.0",
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "0.57.4"
   }
 }
